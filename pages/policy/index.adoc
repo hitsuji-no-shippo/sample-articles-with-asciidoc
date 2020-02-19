@@ -1,0 +1,7 @@
+= Policy
+:revnumber: v1.0.0
+:revdate: 2020-02-19T19:12:28+0900
+:revremark: First Edition.
+:page-creation-date: 2020-02-19T19:12:28+0900
+
+Blog policy.
